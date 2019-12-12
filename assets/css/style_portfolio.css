@@ -3,34 +3,7 @@
     box-sizing: content-box;
     height: 500px
 }
-#img1{
-    position: absolute; 
-    margin: 20px;
-    top: 60px;
-    left: 80px;
-}
 
-#img2 {
-    position: absolute;
-    margin: 20px;
-    top: 60px;
-    right: 80px;
-}
-
-
-#img3 {
-    position: absolute;
-    margin: 20px;
-    bottom: 60px;
-    left: 80px;
-}
-
-#img4 {
-    position: absolute;
-    margin: 20px;
-    bottom: 60px;
-    right: 80px;
-}
 
 .text {
     background: #4aaaa5;
